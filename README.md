@@ -15,7 +15,7 @@
 - 🎓 Изучаю Python и постепенно закапываюсь в C++ / Lua / Pawn
 - 🤖 Пишу telegram-ботов
 - 🎮 Делаю моды и плагины для Counter-Strike 1.6 (AMX Mod X, SourcePawn, Lua)
-- 🧩 Собираю мини-игры вроде сапёра на C#
+- 🧩 Собираю мини-игры вроде сапёра на Pawn
 - 🌱 Люблю разбирать чужой код не меньше, чем писать свой
 
 ---
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Pawn-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
@@ -60,5 +59,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=H0z0n&theme=tokyo-night&hide_border=true" />
 </p>
-
-<p align="center">✨ Спасибо, что заглянул(а) — заходи ещё!</p>
