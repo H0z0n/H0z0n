@@ -1,13 +1,5 @@
 <h1 align="center">Привет, я H0z0n 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Python+%2B+Lua+%2B+C%2B%2B;Пишу+ботов+и+моды+для+CS+1.6;Учусь%2C+кодю%2C+коммичу+😼" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=H0z0n&label=Просмотров+профиля&color=58A6FF&style=flat" />
-</p>
-
 ---
 
 ### 🧑‍💻 Обо мне
@@ -42,20 +34,3 @@
 | 💣 [minesweeper-cs](https://github.com/H0z0n/minesweeper-cs) | AMX Mod X плагин: классический сапёр внутри CS 1.6 |
 
 ---
-
-### 📊 Статистика
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=H0z0n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0z0n&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H0z0n&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H0z0n&theme=tokyo-night&hide_border=true" />
-</p>
