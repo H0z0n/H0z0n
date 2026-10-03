@@ -6,7 +6,7 @@
 
 - 🎓 Изучаю Python и постепенно закапываюсь в C++ / Lua / Pawn
 - 🤖 Пишу telegram-ботов
-- 🎮 Делаю моды и плагины для Counter-Strike 1.6 (AMX Mod X, SourcePawn, Lua)
+- 🎮 Делаю моды и плагины для Counter-Strike 1.6 и SA:MP (AMX Mod X, SourcePawn, Lua)
 - 🧩 Собираю мини-игры вроде сапёра на Pawn
 - 🌱 Люблю разбирать чужой код не меньше, чем писать свой
 
