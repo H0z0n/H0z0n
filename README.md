@@ -21,16 +21,3 @@
   <img src="https://img.shields.io/badge/Pawn-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
-
----
-
-### 📌 Избранные проекты
-
-| Репозиторий | Описание |
-|---|---|
-| 🐍 [python-learning](https://github.com/H0z0n/python-learning) | Основы и задания для закрепления Python |
-| 🤖 [telegram_bot](https://github.com/H0z0n/telegram_bot) | Telegram-бот на Python |
-| 🎮 [cs-lua](https://github.com/H0z0n/cs-lua) | Плагины для CS 1.6 на Lua вместо SourcePawn |
-| 💣 [minesweeper-cs](https://github.com/H0z0n/minesweeper-cs) | AMX Mod X плагин: классический сапёр внутри CS 1.6 |
-
----
