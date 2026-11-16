@@ -1,18 +1,4 @@
-<h1 align="center">Привет, я H0z0n 👋</h1>
-
----
-
-### 🧑‍💻 Обо мне
-
-- 🎓 Изучаю Python и постепенно закапываюсь в C++ / Lua / Pawn
-- 🤖 Пишу telegram-ботов
-- 🎮 Делаю моды и плагины для Counter-Strike 1.6 и SA:MP (AMX Mod X, SourcePawn, Lua)
-- 🧩 Собираю мини-игры вроде сапёра на Pawn
-- 🌱 Люблю разбирать чужой код не меньше, чем писать свой
-
----
-
-### 🛠️ Чем пользуюсь
+### 🛠️
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
